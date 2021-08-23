@@ -162,7 +162,7 @@
  :journal/page-title-format "yyyy-MM-dd"
  :feature/enable-journals? false
  :default-home {:page "时间"}
- :zotero/settings-v2 {"default" {:type-id "7327413"}}
+ :zotero/settings-v2 {"default" {:type-id "7327413", :zotero-data-directory "C:\\Users\\haoma\\Zotero"}}
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
  ;; :srs/learning-fraction 0.5
